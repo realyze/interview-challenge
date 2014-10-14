@@ -1,0 +1,10 @@
+[
+    {
+        "type": "reset",
+        "label": "Reset robotarm"
+    },
+    {
+        "type": "submit",
+        "label": "Start conquering!"
+    }
+]

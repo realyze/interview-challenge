@@ -1,0 +1,14 @@
+[
+    {
+        "type": "checkbox",
+        "label": "Build a robot army?"
+    },
+    {
+        "type": "checkbox",
+        "label": "Equip robots with beam weapons?"
+    },
+    {
+        "type": "button",
+        "label": "Start conquering!"
+    }
+]
