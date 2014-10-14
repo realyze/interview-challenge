@@ -16,7 +16,7 @@ angular.module( 'ngBoilerplate.robotArmy', [
 })
 
 .controller('RoboCtrl', function ($scope) {
-    $scope.robotSource = '/build/assets/test.json';
+    $scope.robotSource = '/assets/test.json';
 })
 
 /*
